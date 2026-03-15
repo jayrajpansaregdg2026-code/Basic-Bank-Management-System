@@ -29,6 +29,7 @@ public class code {
                 break;
             case 0:
                 System.out.println("THANK YOU");
+                no=0;
                 break;
             default:
                 break;
